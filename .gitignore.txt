@@ -1,9 +1,0 @@
-# Ignore output files
-*.dat
-*.txt
-
-# Ignore logs
-*.log
-
-# Ignore generated folders
-Directory/
